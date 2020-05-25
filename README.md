@@ -1,4 +1,4 @@
-# XTBTorch
+# TB-Detection
 Detecting tuberculosis from X-ray scan using pytorch
 
 ## Requirements
