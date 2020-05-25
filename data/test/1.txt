@@ -1,2 +1,2 @@
-Keep Training image files here
+Keep Testing image files here
 remove this text file to avoid any error on file and data types
